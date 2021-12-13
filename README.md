@@ -4,7 +4,7 @@ Made with Next.Js
 
 ## Stack
 
-Next.Js, MongoDB, hosted on Vercel
+Next.Js, MongoDB, hosted on Vercel, env variables via vercel
 
 ## Live
 
