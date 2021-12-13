@@ -4,7 +4,7 @@ Made with Next.Js
 
 ## Stack
 
-Next.Js, MongoDB, hosted on Vercel, env variables via vercel
+Next.Js, MongoDB, hosted on Vercel, env variables via vercel. Blog posts are local, implemented with markdown, displayed with React Markdown.
 
 ## Live
 
